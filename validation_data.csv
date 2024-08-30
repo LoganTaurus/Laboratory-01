@@ -1,4 +1,4 @@
-Grupo,Sexo,Edad,Modo_Llegada,Lesion,Queja_Principal,Estado_Mental,Dolor,dolor_NRS,SBP,DBP,HR,RR,BT,Saturacion,Diagnostico_En_Urgencias,Disposicion,Grupo_De_Error,Duracion_KTAS_Min,Error_Triaje,KTAS_Enfermera,KTAS_Experto
+Grupo,Sexo,Edad,Modo_Llegada,Lesion,Queja_Principal,Estado_Mental,Dolor,dolor_NRS,SBP,DBP,HR,RR,BT,Saturacion,Diagnostico_En_Urgencias,Disposicion,Grupo_De_Error,Duracion_KTAS_Min,Error_Triaje,KTAS_enfermera,KTAS_experto
 2,1,41,3,2,Open Wound,1,1,3,120,80,74,20,36.3,98,"Superficial injury of face NOS, contusion",1,0,"4,00",0,3,3
 1,1,63,2,1,arrest,4,0,#BOÞ!,,,,,,,Cardiac arrest,6,0,"5,42",0,1,1
 2,2,76,2,1,dyspnea,1,1,3,110,70,61,20,36.4,98,"Heart failure, unspecified",2,0,"5,00",0,2,2
